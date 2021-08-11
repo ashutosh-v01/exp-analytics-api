@@ -29,7 +29,7 @@
 				<artifactId>mule-maven-plugin</artifactId>
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
-				<configuration>
+				<!-- <configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>${app.runtime}</muleVersion>
@@ -48,7 +48,7 @@
 						<ut.encryption.key>${ut.encryption.key}</ut.encryption.key>
 						</properties>
 					</cloudHubDeployment>				
-				</configuration>
+				</configuration> -->
 			</plugin>
 		</plugins>
 	</build>
