@@ -1,4 +1,4 @@
 {
   "minMuleVersion": "4.3.0",
-  "secureProperties": ["anypoint.userName", "anypoint.password", "ut.encryption.key"]
+  "secureProperties": ["anypoint.userName", "anypoint.password", "ut.encryption.key", "UT.order.host"]
 }
